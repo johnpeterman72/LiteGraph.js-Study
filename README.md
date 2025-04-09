@@ -1,3 +1,4 @@
+![github header](./res/github-header.png)
 # LiteGraph.js Research Project
 
 This repository contains research and examples for creating custom nodes and interactive widgets in LiteGraph.js.
